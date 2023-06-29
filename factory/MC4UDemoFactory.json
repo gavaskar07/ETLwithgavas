@@ -1,0 +1,9 @@
+{
+	"name": "MC4UDemoFactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "701e5a75-1819-478a-801f-5fa80f46f84d",
+		"tenantId": "b8c9d1a8-3867-483e-810f-09a0b03e902b"
+	}
+}
